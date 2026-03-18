@@ -60,7 +60,7 @@ export default function HeroSection() {
           <div className="h-10 w-10 bg-amber-500 flex items-center justify-center">
             <span className="text-black font-black text-lg">С</span>
           </div>
-          <span className="text-white font-semibold text-lg tracking-wide">СтройГрупп</span>
+          <span className="text-white font-semibold text-lg tracking-wide">СтройДом</span>
         </div>
         <a
           href="tel:+78001234567"
