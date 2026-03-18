@@ -63,10 +63,10 @@ export default function HeroSection() {
           <span className="text-white font-semibold text-lg tracking-wide">СтройДом</span>
         </div>
         <a
-          href="tel:+78001234567"
+          href="tel:+79602976052"
           className="hidden md:block text-white/80 hover:text-white transition-colors text-sm tracking-widest uppercase border border-white/30 hover:border-white/60 px-5 py-2"
         >
-          +7 800 123-45-67
+          +7 960 297-60-52
         </a>
       </div>
 
@@ -120,7 +120,7 @@ export default function HeroSection() {
               )}
             >
               <a
-                href="tel:+78001234567"
+                href="tel:+79602976052"
                 className="bg-amber-500 hover:bg-amber-400 text-black font-semibold px-8 py-4 text-sm tracking-widest uppercase transition-colors inline-block text-center"
               >
                 Получить консультацию
