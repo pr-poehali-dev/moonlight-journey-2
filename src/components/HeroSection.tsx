@@ -120,7 +120,9 @@ export default function HeroSection() {
               )}
             >
               <a
-                href="tel:+79602976052"
+                href="https://t.me/sohibol"
+                target="_blank"
+                rel="noopener noreferrer"
                 className="bg-amber-500 hover:bg-amber-400 text-black font-semibold px-8 py-4 text-sm tracking-widest uppercase transition-colors inline-block text-center"
               >
                 Получить консультацию
