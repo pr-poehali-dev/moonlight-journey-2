@@ -120,7 +120,7 @@ export default function HeroSection() {
               )}
             >
               <a
-                href="https://t.me/sohibol"
+                href="https://vk.com/sohibol444"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="bg-amber-500 hover:bg-amber-400 text-black font-semibold px-8 py-4 text-sm tracking-widest uppercase transition-colors inline-block text-center"
